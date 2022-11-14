@@ -3,7 +3,6 @@ import "./App.css";
 import Login from "./Pages/Login";
 import NewAccount from "./Pages/NewAccount";
 import Timeline from "./Pages/TimeLine";
-
 function App() {
   return (
     <Routes>
